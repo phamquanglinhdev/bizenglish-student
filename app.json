@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "307dc209-40a9-4fe7-ae45-e98bb916846e"
+      }
+    },
+    "owner": "bizenglisheducation"
   }
 }
